@@ -485,7 +485,7 @@ private:
 
     //
     // Pointers to traceback alignment, one for each of the three affine-gap matrices, H, E and F
-    //S
+    //
     char backtraceAction[(MAX_READ_LENGTH + MAX_K)][MAX_READ_LENGTH][3];
 
     //
